@@ -1,2 +1,20 @@
 [compat]
 julia = "1.5"
+
+[deps]
+CSV = "336ed68f-0bac-5ca0-87d4-7b16caf5d00b"
+DataFrames = "a93c6f00-e57d-5684-b7b6-d8193f3e46c0"
+DataVoyager = "5721bf48-af8e-5845-8445-c9e18126e773"
+FFTW = "7a1cc6ca-52ef-59f5-83cd-3a7055c09341"
+GR = "28b8d3ca-fb5f-59d9-8090-bfdbd6d07a71"
+IJulia = "7073ff75-c697-5162-941a-fcdaad2a7d2a"
+Interact = "c601a237-2ae4-5e1e-952c-7a85b0c7eef1"
+Mux = "a975b10e-0019-58db-a62f-e48ff68538c9"
+Pandoc = "f853b5e0-b243-11e9-0043-7da5023c5ee7"
+Plots = "91a5bcdd-55d7-5caf-9e0b-520d859cae80"
+Pluto = "c3e4b0f8-55cb-11ea-2926-15256bba5781"
+PlutoUI = "7f904dfe-b85e-4ff6-b463-dae2292396a8"
+PyPlot = "d330b81b-6aea-500a-939a-2ce795aea3ee"
+Query = "1a8c2f83-1ff3-5112-b086-8aa67b057ba1"
+StatPlots = "60ddc479-9b66-56df-82fc-76a74619b69c"
+WebIO = "0f1e0344-ec1d-5b48-a673-e5cf874b6c29"
