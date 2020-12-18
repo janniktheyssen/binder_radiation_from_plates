@@ -1,5 +1,2 @@
 [compat]
 julia = "1.5"
-
-[deps]
-Plots = "v0.29.9"
