@@ -2,4 +2,4 @@
 julia = "1.5"
 
 [deps]
-Plots = "0.29.9"
+Plots
